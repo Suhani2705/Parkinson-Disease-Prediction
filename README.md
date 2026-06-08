@@ -22,7 +22,7 @@
 ## Architecture
 
 <p align="center">
-  <img src="pd.jpg" alt="Proposed Architecture" width="900">
+  <img src="Pd.jpg" alt="Proposed Architecture" width="900">
 </p>
 
 ---
